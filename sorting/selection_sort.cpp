@@ -1,6 +1,4 @@
 // selection sort
-#include <bits/stdc++.h>
-using namespace std;
 
 // Swap function
 void swap(int *xp, int *yp)
